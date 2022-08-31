@@ -1,17 +1,19 @@
 # kenzieHub
 
+# Cadastro
+![alt text](https://ibb.pics/gRV65GH/Kenziehub-Cadastro.jpg)
 
-![alt text](https://ibb.pics/1qgHgHJ/Kenziehub-cadastro-tech.jpg)
-
+# Login
 ![alt text](https://ibb.pics/YPRkrst/kenziehublogin.jpg)
 
+# Dashboard
 ![alt text](https://ibb.pics/dMrXVQT/Kenziehubdashboard.jpg)
 
+# Modal de cadastrar tecnologias
 ![alt text](https://ibb.pics/1qgHgHJ/Kenziehub-cadastro-tech.jpg)
 
+# Tecnologia adicionada
 ![alt text](https://ibb.pics/ZV7zxJB/kenziehub-adicionado.jpg)
-
-
 
 # :bulb: Descrição
 
